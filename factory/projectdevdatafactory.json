@@ -1,0 +1,9 @@
+{
+	"name": "projectdevdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9d33bafa-61d2-40ef-8bc2-a71c16043ae4",
+		"tenantId": "139f0669-cebb-42df-b9e3-415009ddb690"
+	}
+}
